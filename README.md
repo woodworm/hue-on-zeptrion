@@ -7,6 +7,11 @@ However, in the beautiful new world, unfortunately I need two switches to contro
 
 To use this, a little configuration is needed.
 
+## My Installation
+![alt text](readme-res/01.png)
+
+
+
 ## Configuration Steps
 First make sure you have the zeptrionAir-switch and the hue-light connected whit your home network.
 
